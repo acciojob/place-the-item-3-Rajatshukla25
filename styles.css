@@ -1,2 +1,42 @@
 
 /* Your CSS Code here. */
+
+#eg0{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(189, 220, 210);
+    border: 1px solid grey;
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+#eg1{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(189, 220, 210);
+    border: 1px solid grey;
+   
+}
+    #eg2{
+        height: 50px;
+        width: 50px;
+        background-color: rgb(26, 99, 74);
+        border: 1px solid grey;
+       
+    }
+    #eg3{
+        height: 50px;
+        width: 50px;
+        background-color: rgb(46, 58, 54);
+        border: 1px solid grey;
+        
+    }
+    #eg4{
+        height: 50px;
+        width: 50px;
+        background-color: rgb(5, 83, 57);
+        border: 1px solid grey;
+      
+    }
